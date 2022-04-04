@@ -1,2 +1,2 @@
 #!/bin/bash
-taill -1 < iacta >> iacta
+taill -n 1 iacta >> iacta
