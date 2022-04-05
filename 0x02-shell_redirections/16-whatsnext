@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "rooot" -A 3 /etc/passwd
+grep -A 3 "rooot" /etc/passwd
